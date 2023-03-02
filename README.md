@@ -24,3 +24,5 @@ pip install -r requirements.txt
 
 - Download odespy repo from https://github.com/rajeshrinet/odespy and follow install instructions.
 
+### Shared data:
+https://drive.google.com/drive/folders/1X6oH834QlMzT9Q2az7mE7ka5lBLQBr9S?usp=sharing
