@@ -1,0 +1,4 @@
+ ,Label,Area,X,Y,Perim.,Major,Minor,Angle,Circ.,AR,Round,Solidity,Length
+1,201220_gelatin_zstack_01_30x_head_labeled.tif:z:1/155 - 201220_gelatin_zstack_01_30x_head.nd2 (series 1),239.446,220.022,221.039,587.617,0,0,-46.207,0.009,0.000,0.000,NaN,587.617
+2,201220_gelatin_zstack_02_30x_tail001_labeled.tif:z:1/155 - 201220_gelatin_zstack_02_30x_tail001.nd2 (series 1,260.159,253.605,255.030,638.722,0,0,-44.974,0.008,0.000,0.000,NaN,638.722
+3,201220_gelatin_zstack_02_30x_tail001_labeled.tif:z:1/155 - 201220_gelatin_zstack_02_30x_tail001.nd2 (series 1,175.980,338.174,316.260,432.050,0,0,-50.262,0.012,0.000,0.000,NaN,432.050
