@@ -26,3 +26,4 @@ pip install -r requirements.txt
 
 ### Shared data:
 https://drive.google.com/drive/folders/1X6oH834QlMzT9Q2az7mE7ka5lBLQBr9S?usp=sharing
+https://drive.google.com/drive/folders/1EFVF8aZH40B-TGQA0BH8KZXaiDMNh-9N?usp=drive_link
